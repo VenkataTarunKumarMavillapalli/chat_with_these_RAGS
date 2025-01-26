@@ -37,6 +37,20 @@ Before running either app, ensure you have the following:
 
 ---
 
+## Key Differences Between OpenAI GPT-4o and Llama-3 Apps
+
+| **Aspect**               | **OpenAI GPT-4o - Research Papers**            | **Llama-3 - Research Papers**       |
+|---------------------------|-----------------------------------------------|-------------------------------------|
+| **Model**                | OpenAI GPT-4o                                  | Locally running Llama-3            |
+| **API Dependency**       | Requires OpenAI API key                        | No API key needed                   |
+| **Execution Location**   | Cloud (via OpenAI API)                         | Local (on user machine)             |
+| **Setup Complexity**     | Requires external API key and connectivity     | Needs local model setup             |
+| **Flexibility**          | Highly configurable with OpenAI parameters     | Offline solution for privacy        |
+| **Response Style**       | Temperature set to 0.9 for creativity          | May use default Llama-3 settings    |
+| **Tool Debugging**       | Not enabled                                    | Enabled (`show_tool_calls=True`)    |
+
+---
+
 ## Running the Apps
 You can choose to run either the **OpenAI GPT-4o - Research Papers** app or the **Llama-3 - Research Papers** app:
 
@@ -51,6 +65,7 @@ You can choose to run either the **OpenAI GPT-4o - Research Papers** app or the 
 1. Ensure the Llama-3 model is running locally before starting the app.
 2. Enter your search query in the text box (e.g., "machine learning in healthcare").
 3. View the assistant's response containing insights and relevant research papers.
+This table summarizes the main differences to help you decide which app best suits your use case. Use **OpenAI GPT-4o** if you prefer a cloud-based, plug-and-play experience. Choose **Llama-3** if you prioritize offline functionality and data privacy.
 
 ---
 
