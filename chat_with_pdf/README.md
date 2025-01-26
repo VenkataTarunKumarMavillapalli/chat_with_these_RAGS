@@ -120,4 +120,7 @@ This project is licensed under the MIT License.
 
 ---
 
-Let me know if there’s anything else you'd like to add!
+## Contact
+For any questions or feedback, feel free to reach out:
+- [**LinkedIn**](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/)
+
