@@ -121,6 +121,6 @@ google-api-python-client
 
 ## Contact
 For any questions or feedback, feel free to reach out:
-- [**LinkedIn:** ](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/)
-- [💬 Chat with GitHub Repo](https://github.com/VenkataTarunKumarMavillapalli/chat_with_these/tree/main/chat_with_github)
+- [**LinkedIn**](https://www.linkedin.com/in/venkata-tarun-kumar-mavillapalli-967b4613a/)
+
 
