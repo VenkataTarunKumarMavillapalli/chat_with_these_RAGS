@@ -57,8 +57,7 @@ streamlit run app.py
 ```plaintext
 .
 ├── app.py                # Main Streamlit app file
-├── credentials.json      # Gmail API credentials (required)
-├── requirements.txt      # Python dependencies
+├── credentials.json      # Gmail API credentials (required)      
 ├── README.md             # Project documentation (this file)
 ├── token.json            # Gmail authentication token (auto-generated)
 ```
