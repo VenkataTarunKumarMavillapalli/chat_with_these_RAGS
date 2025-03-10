@@ -64,21 +64,3 @@ ollama pull llama3.2
 2. Sign up for an account
 3. Generate an API key for web search capabilities
 
-## How to Run
-
-1. Clone the repository:
-```bash
-git clone https://github.com/Shubhamsaboo/awesome-llm-apps.git
-cd rag_tutorials/deepseek_local_rag_agent
-```
-
-2. Install dependencies:
-```bash
-pip install -r requirements.txt
-```
-
-3. Run the application:
-```bash
-streamlit run deepseek_rag_agent.py
-```
-
